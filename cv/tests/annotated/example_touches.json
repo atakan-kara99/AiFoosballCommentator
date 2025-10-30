@@ -1,0 +1,36 @@
+{
+    "video": "your_video_name",
+    "annotation_quality": 1.0,
+    "touches": {
+        "1": {
+            "player": "player id according to player_enum",
+            "team_id": "team_id according to team_enum",
+            "throw_in": false,
+            "goal": false
+        },
+        "10": {
+            "player": null,
+            "team_id": 1,
+            "throw_in": true,
+            "goal": false
+        },
+        "11": {
+            "player": null,
+            "team_id": 1,
+            "throw_in": false,
+            "goal": true
+        },
+        "13": {
+            "player": "WALL",
+            "team_id": null,
+            "throw_in": false,
+            "goal": false
+        },
+        "14": {
+            "player": "GK",
+            "team_id": 0,
+            "throw_in": false,
+            "goal": false
+        }
+    }
+}

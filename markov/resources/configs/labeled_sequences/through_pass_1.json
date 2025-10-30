@@ -1,0 +1,60 @@
+{
+    "touches": [
+        {
+            "type": "touch",
+            "player": "GK",
+            "team_id": 1,
+            "time": 12857,
+            "frame_no": 184,
+            "position": [
+                0.92333333333333333,
+                0.5117647058823529
+            ],
+            "speed": 2.345967352946183,
+            "direction": 205,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "RCM",
+            "team_id": 1,
+            "time": 13246,
+            "frame_no": 189,
+            "position": [
+                0.56666666666666667,
+                0.4917647058823529
+            ],
+            "speed": 0.0872635841759321,
+            "direction": 15,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "RCM",
+            "team_id": 1,
+            "time": 13498,
+            "frame_no": 193,
+            "position": [
+                0.561,
+                0.5058823529411764
+            ],
+            "speed": 1.8562983673492456,
+            "direction": 265,
+            "goal": false,
+            "throw_in": false
+        }
+    ],
+    "event": {
+        "type": "through_pass",
+        "team_id": 1,
+        "time": 13498.0,
+        "frame_no": 193,
+        "player_ids": [
+            "GK, M"
+        ],
+        "confidence": 1,
+        "likeliness": 1
+    }
+}

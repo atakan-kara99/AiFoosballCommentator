@@ -1,0 +1,5 @@
+name: markov
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/luca/miniconda/envs/markov

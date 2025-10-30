@@ -1,0 +1,60 @@
+{
+    "touches": [
+        {
+            "type": "touch",
+            "player": "LB",
+            "team_id": 1,
+            "time": 27953,
+            "frame_no": 310,
+            "position": [
+                0.87333333333333333,
+                0.3529411764705882
+            ],
+            "speed": 1.8762345629631452,
+            "direction": 177,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "LF",
+            "team_id": 1,
+            "time": 28349,
+            "frame_no": 316,
+            "position": [
+                0.333333333333333,
+                0.3964705882352941
+            ],
+            "speed": 0.26237482591047263,
+            "direction": 357,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "LF",
+            "team_id": 1,
+            "time": 28764,
+            "frame_no": 322,
+            "position": [
+                0.35666666666666667,
+                0.4058823529411764
+            ],
+            "speed": 0.9834725639801523,
+            "direction": 266,
+            "goal": false,
+            "throw_in": false
+        }
+    ],
+    "event": {
+        "type": "through_pass",
+        "team_id": 1,
+        "time": 28764.0,
+        "frame_no": 322,
+        "player_ids": [
+            "B, F"
+        ],
+        "confidence": 1,
+        "likeliness": 1
+    }
+}

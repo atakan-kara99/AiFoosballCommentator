@@ -1,0 +1,510 @@
+{
+    "video": "test_011_2Tore",
+    "annotation_quality": 0.9,
+    "touches": {
+      "38": {
+        "player": null,
+        "team_id": 1,
+        "throw_in": true,
+        "goal": false
+      },
+      "136": {
+        "player": "LCM",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "184": {
+        "player": "LM",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "203": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "233": {
+        "player": "LM",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "235": {
+        "player": "RM",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "236": {
+        "player": "RM",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "272": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "275": {
+        "player": "RB",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "356": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "400": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "401": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "402": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "403": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "404": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "405": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "406": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "407": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "408": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "441": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "444": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "445": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "446": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "447": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "448": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "449": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "450": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "451": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "452": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "453": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "454": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "455": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "456": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "457": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "458": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "459": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "460": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "461": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "462": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "493": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "512": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "530": {
+        "player": null,
+        "team_id": 1,
+        "throw_in": false,
+        "goal": true
+      },
+      "895": {
+        "player": null,
+        "team_id": 1,
+        "throw_in": true,
+        "goal": false
+      },
+      "944": {
+        "player": "CM",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "955": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "961": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1001": {
+        "player": "LB",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1021": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1075": {
+        "player": "GK",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1094": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1121": {
+        "player": "LB",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1123": {
+        "player": "RF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1146": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1151": {
+        "player": "LM",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1154": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1175": {
+        "player": "RF",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1200": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1212": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1215": {
+        "player": "GK",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1228": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1264": {
+        "player": "GK",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1327": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1398": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1399": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1400": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1401": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1402": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1403": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1405": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1406": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1408": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1435": {
+        "player": "LB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1454": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1457": {
+        "player": "CF",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1476": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1479": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1495": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1505": {
+        "player": "RB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1559": {
+        "player": "WALL",
+        "team_id": null,
+        "throw_in": false,
+        "goal": false
+      },
+      "1604": {
+        "player": "GK",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1623": {
+        "player": "LB",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1631": {
+        "player": "RCM",
+        "team_id": 0,
+        "throw_in": false,
+        "goal": false
+      },
+      "1638": {
+        "player": "CF",
+        "team_id": 1,
+        "throw_in": false,
+        "goal": false
+      },
+      "1659": {
+        "player": null,
+        "team_id": 1,
+        "throw_in": false,
+        "goal": true
+      }
+    }
+  }

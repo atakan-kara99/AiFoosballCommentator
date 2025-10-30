@@ -1,0 +1,39 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: ./visual/front 
+    ports:
+      - "3001:80"
+    networks:
+      - app-network
+
+  backend:
+    build:
+      context: ./visual/back 
+    ports:
+      - "3000:3000" 
+    networks:
+      - app-network
+
+  app:
+    build:
+      context: .
+    networks:
+      - app-network
+    volumes:
+      - .:/app
+    environment:
+      - HF_HOME=/huggingface
+      - NVIDIA_VISIBLE_DEVICES=all
+      - HUGGINGFACE_TOKEN=${HUGGINGFACE_TOKEN}  # Use environment variable substitution
+    env_file: 
+      - '.env'
+    runtime: nvidia
+    depends_on:
+      - frontend
+      - backend
+
+networks:
+  app-network:
+    driver: bridge

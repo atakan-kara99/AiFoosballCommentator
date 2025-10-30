@@ -1,0 +1,60 @@
+{
+    "touches": [
+        {
+            "type": "touch",
+            "player": "RB",
+            "team_id": 1,
+            "time": 53245,
+            "frame_no": 552,
+            "position": [
+                0.81916666666666667,
+                0.1411764705882353
+            ],
+            "speed": 1.0049635035379154,
+            "direction": 224,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "WALL",
+            "team_id": null,
+            "time": 54129,
+            "frame_no": 566,
+            "position": [
+                0.69333333333333333,
+                0.0962941176470589
+            ],
+            "speed": 0.770327914496694,
+            "direction": 141,
+            "goal": false,
+            "throw_in": false
+        },
+        {
+            "type": "touch",
+            "player": "RCM",
+            "team_id": 1,
+            "time": 54464,
+            "frame_no": 571,
+            "position": [
+                0.58,
+                0.3652941176470589
+            ],
+            "speed": 0.701327914496694,
+            "direction": 340,
+            "goal": false,
+            "throw_in": false
+        }
+    ],
+    "event": {
+        "type": "wall_pass",
+        "team_id": 1,
+        "time": 54464.0,
+        "frame_no": 571,
+        "player_ids": [
+            "B, M"
+        ],
+        "confidence": 1,
+        "likeliness": 1
+    }
+}

@@ -1,0 +1,6 @@
+huggingface/
+*.mp4
+.venv/
+imgs/
+*.zip
+__pycache__/
