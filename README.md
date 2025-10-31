@@ -1,6 +1,6 @@
 # A Live Foosball Commentary System Using Computer Vision, Markov Models, and Large Language Models 
 
-### *Computer Vision • Markov Models • Large Language Models*
+### *Computer Vision • Markov Models • Large Language Models* | [**View Report**](Project_Report.pdf)
 
 **Authors:** Christoph Crasemann, Julius Daum, Carolina Horlbeck, Atakan Kara, Joost Krüger, Falk Kujath, Luca Mayer, Mads Nissen, Jonathan Schirp, Philipp Wieck
 
